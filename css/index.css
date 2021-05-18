@@ -264,7 +264,7 @@ body{
     z-index: 2;
     font-weight:700;
     font-family: poppins;
-    font-size: 65px;
+    font-size: 50px;
 }
 .header-content .secondline{
     z-index: 2;
@@ -312,9 +312,9 @@ body{
 }
 .social-media{
     color: white;
-    width:  50px;
+    width:  60px;
     ;
-    opacity: .6;
+    opacity: .9;
     margin: 8px;
     transition: all .4s ease;
 }
