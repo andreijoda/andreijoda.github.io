@@ -415,6 +415,10 @@ body{
     color: #000000;
     transition: all .4s ease;
 }
+.color-rotate{
+    color: #ffffff;
+    transition: all .4s ease;
+}
 #about{
     background-color: #101010;
     display: none;
